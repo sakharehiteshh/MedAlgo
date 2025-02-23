@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MedAlgo/static/css/main.e6c13ad2.css",
+    "main.js": "/MedAlgo/static/js/main.67fd3f89.js",
+    "static/js/453.f8d1deff.chunk.js": "/MedAlgo/static/js/453.f8d1deff.chunk.js",
+    "index.html": "/MedAlgo/index.html",
+    "main.e6c13ad2.css.map": "/MedAlgo/static/css/main.e6c13ad2.css.map",
+    "main.67fd3f89.js.map": "/MedAlgo/static/js/main.67fd3f89.js.map",
+    "453.f8d1deff.chunk.js.map": "/MedAlgo/static/js/453.f8d1deff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.67fd3f89.js"
+  ]
+}
